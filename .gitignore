@@ -11,3 +11,4 @@ libraries/bin/
 libraries/phpunit/
 libraries/symfony/
 /bin/
+installer/
